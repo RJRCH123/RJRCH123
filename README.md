@@ -29,13 +29,19 @@
 
 <div align="center">
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)| 
+| | 
 |--|
-| <h2 align="center">My TOP projects:</h2> |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
 </div>
 
 <div align="center">
+
+|  | 
+|--|
+| <h2 align="center">My TOP projects:</h2> |
+
+</div>
 
 | | |
 |--|--|
