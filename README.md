@@ -26,12 +26,14 @@
 | ![rjrch123's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjrch123&show_icons=true&theme=radical)| ![rjrch123 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RJRCH123&layout=compact&theme=radical) |
 | | |
 </div>
+
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)| 
+|--|
+| <h2 align="center">My TOP projects:</h2> |
 
 </div>
-<h2 align="center">My TOP projects:</h2>
 
 <div align="center">
 
