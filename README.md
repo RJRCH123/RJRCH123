@@ -9,7 +9,7 @@
 ```js 
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
-  age: [24], 
+  age: ["24"], 
   country: ["Perú"],
   languages: ["Italian", "English", "Spanish"],
   studies: ["Bootcamp Laboratoria"]
