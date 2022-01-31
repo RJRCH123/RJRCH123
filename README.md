@@ -7,11 +7,18 @@
 </div>
 
 ```js 
-const Rosamaria = {
+const AboutMe = {
+  name: ["Rosamaria Rodriguez"]
   age: [24], 
   country: ["Perú"],
   languages: ["Italian", "English", "Spanish"],
   studies: ["Bootcamp Laboratoria"]
+}
+
+if (you = "need Frontend Developer") {
+  sendMeEmail("Rous9716@gmail.com");
+} else {
+  inviteYou("see my portafolio");
 }
 ```
 
