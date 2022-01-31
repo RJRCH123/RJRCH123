@@ -8,7 +8,7 @@
 
 ```js 
 const AboutMe = {
-  name: ["Rosamaria Rodriguez"]
+  name: ["Rosamaria Rodriguez"],
   age: [24], 
   country: ["Perú"],
   languages: ["Italian", "English", "Spanish"],
