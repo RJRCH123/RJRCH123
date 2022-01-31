@@ -18,7 +18,7 @@ const AboutMe = {
 if (you = "need Frontend Developer") {
   sendMeEmail("Rous9716@gmail.com");
 } else {
-  inviteYou("see my portafolio");
+  inviteYou("see my portfolio");
 }
 ```
 
