@@ -6,6 +6,15 @@
 
 </div>
 
+```js 
+const Rosamaria = {
+  age: [24], 
+  country: ["Perú"],
+  languages: ["Italian", "English", "Spanish"],
+  studies: ["Bootcamp Laboratoria"]
+}
+```
+
 <div align="center">
 
 | | | | | 
