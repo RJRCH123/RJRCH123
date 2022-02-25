@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./img/img3.png" width="800">
+  <img src="./img/Banner-Ro-White.png" width="800">
 
   ![](https://komarev.com/ghpvc/?username=RJRCH123&color=blueviolet)
 
@@ -10,15 +10,15 @@
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
   age: ["24"], 
-  country: ["Perú"],
+  country: ["Peru"],
   languages: ["Italian", "English", "Spanish"],
   studies: ["Bootcamp Laboratoria"]
 }
 
-if (you = "need Frontend Developer") {
+if (you = "Need Frontend Developer") {
   sendMeEmail("Rous9716@gmail.com");
 } else {
-  inviteYou("see my portfolio");
+  inviteYou("See my portfolio");
 }
 ```
 
@@ -63,26 +63,26 @@ if (you = "need Frontend Developer") {
 |--|--|
 |![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=ECOGRAM-Social-network&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)|![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=DATA-Studio-Ghibli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)|
 | <h3 align="center">[See Ecogram here](https://rjrch123.github.io/ECOGRAM-Social-network/)</h3>  | <h3 align="center">[See Data Studio Ghibli here](https://rjrch123.github.io/DATA-Studio-Ghibli/)</h3> |
-|  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=Raffle-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=Pswd-Generator&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)|
-| <h3 align="center">[See Raffle Page here](rjrch123.github.io/raffle-page/)</h3>  | <h3 align="center">[See Pswd Generator here](rjrch123.github.io/pswd-generator/)</h3> |
+| ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=LIM016-burger-queen&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)| ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=Raffle-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) |
+| <h3 align="center">[See Karmar Burger here](karma-burguer.netlify.app/)</h3>  | <h3 align="center">[See Raffle Page here](/)</h3> |
 
 </div>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://twitter.com/rouseblues" target="blank">
+  <a href="https://twitter.com/rosamaria_dev" target="blank">
     <img align="center" title='Twitter' src="./img/twitter.png" alt="rouseblues" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rosamaria-rodriguez-6904a1191/" target="blank">
+  <a href="https://www.linkedin.com/in/rosamaria-rodriguez/" target="blank">
     <img align="center" title='LinkedIn' src="./img/linkedin.png" height="40" width="40" />
   </a>
-  <a href="mailto:rous9716@gmail.com" target="blank">
+  <a href="mailto:rosamaria.developer@gmail.com" target="blank">
     <img align="center" title='Gmail' src="./img/gmail.png" alt="roussebluess" height="40" width="40" />
   </a>
   <a href="https://fb.com/rouseblues16" target="blank">
     <img align="center" title='Facebook' src="./img/facebook.png" alt="rouseblues16" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/roussebluess" target="blank">
+  <a href="https://www.instagram.com/rosamaria_dev/" target="blank">
     <img align="center" title='Instagram' src="./img/instagram.png" alt="roussebluess" height="40" width="40" />
   </a>
 </p>
