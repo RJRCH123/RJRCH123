@@ -47,7 +47,7 @@ if (you = "Need Frontend Developer") {
 
 | | 
 |--|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical) |
 
 </div>
 
@@ -64,7 +64,7 @@ if (you = "Need Frontend Developer") {
 |![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=ECOGRAM-Social-network&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)|![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=DATA-Studio-Ghibli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)|
 | <h3 align="center">[See Ecogram here](https://rjrch123.github.io/ECOGRAM-Social-network/)</h3>  | <h3 align="center">[See Data Studio Ghibli here](https://rjrch123.github.io/DATA-Studio-Ghibli/)</h3> |
 | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=LIM016-burger-queen&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)| ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=RJRCH123&repo=Raffle-page&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) |
-| <h3 align="center">[See Karmar Burger here](karma-burguer.netlify.app/)</h3>  | <h3 align="center">[See Raffle Page here](/)</h3> |
+| <h3 align="center">[See Karmar Burger here](https://karma-burguer.netlify.app/)</h3>  | <h3 align="center">[See Raffle Page here](https://rjrch123.github.io/Raffle-page/)</h3> |
 
 </div>
 
