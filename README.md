@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./img/Banner-Ro-White.png" width="800">
 
-  ![](https://komarev.com/ghpvc/?username=RJRCH123&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=RJRCH123&color=yellowgreen)
 
 </div>
 
