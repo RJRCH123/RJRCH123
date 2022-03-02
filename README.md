@@ -47,7 +47,7 @@ if (you = "Need Frontend Developer") {
 
 | | 
 |--|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact) |
 
 </div>
 
