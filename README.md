@@ -6,6 +6,14 @@
 
 </div>
 
+<div align="center">
+  
+<a href="https://rjrch123.github.io/Ro-Portafolio/" target="_blank">
+    <img align="center" title='Mi Portafolio' src="./img/Porta2.png" alt="Ro Portafolio" height="200" width="200" />
+</a>
+
+</div>
+
 ```js 
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
@@ -23,23 +31,9 @@ if (you = "Need Frontend Developer") {
 ```
 
 
-<div align="center">
-  
-<a href="https://rjrch123.github.io/Ro-Portafolio/" target="_blank">
-    <img align="center" title='Mi Portafolio' src="./img/Porta2.png" alt="Ro Portafolio" height="200" width="200" />
-</a>
 
-</div>
 
 <div align="center">
-
-<div align="center">
-
-|  | 
-|--|
-| <h2 align="center">My Skills:</h2> |
-
-</div>
 
 | | | | | 
 |--|--|--|--|
