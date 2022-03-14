@@ -22,6 +22,7 @@ if (you = "Need Frontend Developer") {
 }
 ```
 
+
 <div align="center">
 
 | | | | | 
@@ -72,20 +73,20 @@ if (you = "Need Frontend Developer") {
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://twitter.com/rosamaria_dev" target="blank">
-    <img align="center" title='Twitter' src="./img/twitter.png" alt="rouseblues" height="40" width="40" />
+  <a href="https://twitter.com/rosamaria_dev" target="_blank">
+    <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rosamaria-rodriguez/" target="blank">
-    <img align="center" title='LinkedIn' src="./img/linkedin.png" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/rosamaria-rodriguez/" target="_blank">
+    <img align="center" title='LinkedIn' src="./img/linkedin.png" alt="Linkedin"  height="40" width="40" />
   </a>
-  <a href="mailto:rosamaria.developer@gmail.com" target="blank">
-    <img align="center" title='Gmail' src="./img/gmail.png" alt="roussebluess" height="40" width="40" />
+  <a href="mailto:rosamaria.developer@gmail.com" target="_blank">
+    <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://fb.com/rouseblues16" target="blank">
-    <img align="center" title='Facebook' src="./img/facebook.png" alt="rouseblues16" height="40" width="40" />
+  <a href="https://fb.com/rouseblues16" target="_blank">
+    <img align="center" title='Facebook' src="./img/facebook.png" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/rosamaria_dev/" target="blank">
-    <img align="center" title='Instagram' src="./img/instagram.png" alt="roussebluess" height="40" width="40" />
+  <a href="https://www.instagram.com/rosamaria_dev/" target="_blank">
+    <img align="center" title='Instagram' src="./img/instagram.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
