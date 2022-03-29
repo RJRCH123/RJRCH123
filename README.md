@@ -14,7 +14,7 @@
 
 <div align="center">
   
-<a href="https://rjrch123.github.io/Ro-Portafolio/" target="_blank">
+<a href="https://rosamaria-portfolio.netlify.app/" target="_blank">
     <img align="center" title='Mi Portafolio' src="./img/Porta2.png" alt="Ro Portafolio" height="200" width="200" />
 </a>
 
