@@ -1,10 +1,10 @@
 ```js 
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
-  age: ["24"], 
+  age: ["26"], 
   country: ["Peru"],
   languages: ["Italian", "English", "Spanish"],
-  studies: ["Bootcamp Laboratoria"]
+  studies: ["Bootcamp Laboratoria", "CoderHouse", "UNMSM"]
 }
 
 if (you = "Need Frontend Developer") {
