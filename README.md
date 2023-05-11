@@ -1,11 +1,3 @@
-
-<div align="center">
-  <img src="./img/Banner-Ro-White.png" width="800">
-
-  ![](https://komarev.com/ghpvc/?username=RJRCH123&color=yellowgreen)
-
-</div>
-
 ```js 
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
@@ -73,9 +65,6 @@ if (you = "Need Frontend Developer") {
   </a>
 </p>
 
-<div align="center">
-  <img src="./img/img2.gif" width="800">
-</div>
 
 
 
