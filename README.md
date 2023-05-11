@@ -12,14 +12,6 @@
 
 </div>
 
-<div align="center">
-  
-<a href="https://rosamaria-portfolio.netlify.app/" target="_blank">
-    <img align="center" title='Mi Portafolio' src="./img/Porta2.png" alt="Ro Portafolio" height="200" width="200" />
-</a>
-
-</div>
-
 ```js 
 const AboutMe = {
   name: ["Rosamaria Rodriguez"],
