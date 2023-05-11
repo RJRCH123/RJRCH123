@@ -14,6 +14,24 @@ if (you == "Need Frontend Developer") {
 }
 ```
 
+<p align="center">
+  <a href="https://twitter.com/rosamaria_dev" target="_blank">
+    <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/rosamaria-rodriguez/" target="_blank">
+    <img align="center" title='LinkedIn' src="./img/linkedin.png" alt="Linkedin"  height="40" width="40" />
+  </a>
+  <a href="mailto:rosamaria.developer@gmail.com" target="_blank">
+    <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="40" width="40" />
+  </a>
+  <a href="https://fb.com/rouseblues16" target="_blank">
+    <img align="center" title='Facebook' src="./img/facebook.png" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/rosamaria_dev/" target="_blank">
+    <img align="center" title='Instagram' src="./img/instagram.png" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
+
 <h2 align="center">My Skills:</h2>
 
 
@@ -46,25 +64,6 @@ if (you == "Need Frontend Developer") {
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjrch123&layout=compact&theme=radical) |
 
 </div>
-
-<p align="center">
-  <a href="https://twitter.com/rosamaria_dev" target="_blank">
-    <img align="center" title='Twitter' src="./img/twitter.png" alt="Twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/rosamaria-rodriguez/" target="_blank">
-    <img align="center" title='LinkedIn' src="./img/linkedin.png" alt="Linkedin"  height="40" width="40" />
-  </a>
-  <a href="mailto:rosamaria.developer@gmail.com" target="_blank">
-    <img align="center" title='Gmail' src="./img/gmail.png" alt="Gmail" height="40" width="40" />
-  </a>
-  <a href="https://fb.com/rouseblues16" target="_blank">
-    <img align="center" title='Facebook' src="./img/facebook.png" alt="Facebook" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/rosamaria_dev/" target="_blank">
-    <img align="center" title='Instagram' src="./img/instagram.png" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
-
 
 
 
