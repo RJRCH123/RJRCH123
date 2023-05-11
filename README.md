@@ -7,7 +7,7 @@ const AboutMe = {
   studies: ["Bootcamp Laboratoria", "CoderHouse", "UNMSM"]
 }
 
-if (you = "Need Frontend Developer") {
+if (you == "Need Frontend Developer") {
   sendMeEmail("rosamaria.developer@gmail.com");
 } else {
   inviteYou("See my portfolio");
